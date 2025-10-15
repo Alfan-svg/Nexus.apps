@@ -6,7 +6,16 @@
 
 **Nexus** merupakan platform digital eksklusif yang mengabadikan perjalanan akademis dan personal mahasiswa-mahasiswi **Informatika 23H Universitas Al Azhar Indonesia**. Sebagai _digital time capsule_, website ini menjadi ruang abadi yang menyimpan setiap momen berharga, pencapaian, dan perkembangan kami selama menempuh pendidikan di jurusan Informatika.
 
-Lebih dari sekedar arsip digital, Nexus merepresentasikan evolusi kami dari individu dengan latar belakang berbeda-beda menjadi satu tim yang solid dalam menghadapi pasang surut selama masa kuliah jurusan Informatika.
+Visi Final Recommendation:
+Menjadi digital legacy, menghubungkan setiap cerita individu menjadi satu narasi kolektif IF23H, dan membangun pondasi untuk jejaring profesional yang berkelanjutan.
+
+Misi:
+
+Menjaga keutuhan komunitas bahkan setelah wisuda
+
+Memfasilitasi pertukaran ide dan kolaborasi berkelanjutan
+
+Menjadi wadah saling mendukung dalam karir dan pengembangan diri
 
 ## ✨ Fitur Utama
 
