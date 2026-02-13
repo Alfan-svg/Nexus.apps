@@ -39,9 +39,13 @@ return [
         'web' => [
             'driver' => 'session',
             'provider' => 'users',
-        ],
     ],
 
+    'admin' => [  // ✅ PASTIKAN INI ADA
+        'driver' => 'session',
+        'provider' => 'admins',
+    ],
+],
     /*
     |--------------------------------------------------------------------------
     | User Providers
@@ -65,11 +69,12 @@ return [
             'model' => env('AUTH_MODEL', App\Models\User::class),
         ],
 
-        // 'users' => [
-        //     'driver' => 'database',
-        //     'table' => 'users',
-        // ],
+     'admins' => [  // ✅ PASTIKAN INI ADA
+        'driver' => 'eloquent',
+        'model' => App\Models\Admin::class,
     ],
+],
+
 
     /*
     |--------------------------------------------------------------------------
