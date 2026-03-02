@@ -7,13 +7,13 @@
     <div class="col-md-8">
         <div class="card">
             <div class="card-header bg-primary text-white">
-                <h4 class="mb-0">Selamat Datang</h4>
+                <h4 class="mb-0">Selamat Datang di Dashboard Nexus!</h4>
             </div>
             
             <div class="card-body text-center">
-                <h3>Aplikasi dengan Authentication Manual</h3>
+                <h3>Tempat kenangan IF23H diabadikan</h3>
                 <p class="lead mt-3">
-                    Ini adalah contoh authentication dari nol tanpa Breeze/Jetstream.
+                    Selamat bertugas menjadi Admin!
                 </p>
                 
                 @guest
